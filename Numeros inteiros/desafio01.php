@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Antecessor e Sucessor</title>
-    <link rel="stylesheet" href="style/estilo.css">
+    <link rel="stylesheet" href="estilo/estilo.css">
 </head>
 <body>
     <h1>Antecessor e Sucessor</h1>
