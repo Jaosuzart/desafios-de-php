@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Máquina do Tempo</title>
-    <link rel="stylesheet" href="style/estilo.css">
+    <link rel="stylesheet" href="style//estilo.css">
 </head>
 <body>
     <h2>Desafio 4: Máquina do Tempo</h2>
