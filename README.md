@@ -21,7 +21,7 @@
    php -S localhost:8000
 Abra http://localhost:8000 no navegador.
 Dica: em Windows, prefira pastas sem espaço no nome do diretório de publicação (ou ajuste a URL).
-🧪 Desafios (resumo e o que se aprende)
+🧪 Desafios 
 1) Conversor básico
 Objetivo: ler um valor e apresentar a conversão (ex.: de um valor base para outra referência).
 Conceitos: $_GET/$_POST, forms, sanitização com FILTER_VALIDATE_FLOAT, number_format.
